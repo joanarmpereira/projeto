@@ -1,0 +1,196 @@
+/*CSS 2.4 Projeto I — Joana Pereira */
+
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: white;
+    cursor: url(cursor.png), auto;
+    cursor: 10px;
+}
+
+#titulo {
+    font-size: 27pt;
+    font-weight: 500;
+}
+
+#sintese {
+    font-size: 27pt;
+    font-weight: 500;
+}
+
+#menu {
+    position: fixed;
+    
+}
+
+button {
+    width: 230px;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 5px;
+
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 30px;
+    text-align: center;
+
+    color: white;
+    font-size: 27px;
+    font-weight: 500;
+}
+
+
+button:hover {
+    background-color: white;
+    color: black;
+    text-decoration: underline;
+}
+
+#citacoes {
+    position: relative;
+    width: 83%;
+    left: 17%;
+    top: 11px;
+    right: 10%;
+
+    font-size: 27px;
+    font-weight: 500;
+}
+
+em {
+    color: rgb(250, 110, 80);
+    font-style: normal;
+    text-decoration: underline; 
+}   
+
+#hypertext {
+    background-color: white;
+    color: black;
+
+    padding: 5px;
+    margin: 10px;
+
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 30px; 
+}
+
+#img1 { 
+    width: 50%;
+    padding-left: 10px;
+}   
+
+#literary {
+    background-color: white;
+    color: black;
+    margin: 10px;
+    margin-top: 3px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 30px; 
+}
+
+#img2 { 
+    width: 40%;
+    padding-left: 10px;
+}   
+
+#interactive {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 3px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 30px; 
+}
+
+#structure {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 30px; 
+}
+
+#display {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 30px; 
+}
+
+#document {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 30px; 
+}
+
+#img3 { 
+    width: 70%;
+    padding-left: 10px;
+}  
+
+#system {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 3px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 30px; 
+}
+/*
+footer {
+    position: relative;
+    width: 83%;
+    left: 17%;
+    top: 11px;
+    right: 10%;
+    
+    font-size: 12pt;
+    font-weight: normal;
+}
+*/
+
+#imagens {
+    position: relative;
+    width: 83%;
+    left: 17%;
+    top: 30px;
+    padding-left: 30px;
+    
+    font-size: 12pt;
+    font-weight: normal;
+}
+
+#textos {
+    position: relative;
+    width: 83%;
+    left: 50%;
+    top: -35px;
+    
+    font-size: 12pt;
+    font-weight: normal;
+}
